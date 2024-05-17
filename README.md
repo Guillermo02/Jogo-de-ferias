@@ -1,6 +1,5 @@
 # Jogo-de-ferias
 
-Fazendo um jogo de férias pq não tenho nada melhor pra fazer
+Planejar um jogo de férias pq sim
 
-ideias de jogos 2D:
-bomb it 
+
